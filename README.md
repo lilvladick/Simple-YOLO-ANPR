@@ -19,6 +19,12 @@ Open datasets from the Roboflow platform were used to train YOLO models:
 - Filtering and validation of detected license plates using regex to ensure accuracy of recognized plates
 - Support for video stream processing, which makes the project suitable for working with video files or surveillance cameras
 
+## Example
+
+<p align="center">
+    <img src="data/cars.gif" width="500">
+</p>
+
 ## How to run
 - Install dependencies:
   ```python
